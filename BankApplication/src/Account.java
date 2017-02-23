@@ -2,8 +2,11 @@
 public class Account {
 	
 	//new file added 
-	
+	 master
+	//adding changes  new add -- Nita
+=======
 	//adding changes  new add -- Mrigesh
+ master
 	
 	private int accountNumber;
 	private int amount;
